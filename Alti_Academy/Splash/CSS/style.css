@@ -1,0 +1,79 @@
+.bienvenida-audio {
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .bienvenida-audio .div {
+    background-image: url(../img/Fondo\ 1.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    width: 1323px;
+    height: 702px;
+    position: relative;
+  }
+  
+  .bienvenida-audio .overlap-group {
+    position: absolute;
+    width: 316px;
+    height: 353px;
+    top: 162px;
+    left: 504px;
+  }
+  
+  .bienvenida-audio .rectangle {
+    position: absolute;
+    width: 316px;
+    height: 316px;
+    top: 37px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .bienvenida-audio .text-wrapper {
+    position: absolute;
+    width: 243px;
+    top: 0;
+    left: 36px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #0080ab;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .bienvenida-audio .overlap {
+    position: absolute;
+    width: 333px;
+    height: 29px;
+    top: 522px;
+    left: 489px;
+  }
+  
+  .bienvenida-audio .text-wrapper-2 {
+    position: absolute;
+    width: 333px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat-Italic", Helvetica;
+    font-weight: 400;
+    font-style: italic;
+    color: #00abee;
+    font-size: 18px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .bienvenida-audio .play-circle {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 6px;
+    left: 299px;
+  }
+  

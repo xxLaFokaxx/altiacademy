@@ -1,0 +1,192 @@
+.registro{
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+.registro .overlap-wrapper{
+    background-color: #ffffff;
+    width: 1323px;
+    height: 702px;
+}
+
+.registro .overlap{
+    position: relative;
+    height: 702px;
+    background-image: url(../IMG/Fondo\ 2.png);
+    background-size: cover;
+    background-position: 50% 50%;
+}
+.registro .alti{
+    position: absolute;
+    width: 565px;
+    height: 565px;
+    top: 82px;
+    left: 0;
+    object-fit: cover;
+}
+.registro .rectangle{
+    position: absolute;
+    width: 699px;
+    height: 520px;
+    top: 82px;
+    left: 536px;
+    background-color: #ffffff;
+    border-radius: 81px;
+    box-shadow: inset 0px 4px 4px #00000040;
+}
+
+.registro .group{
+    position: absolute;
+    width: 304px;
+    height: 82px;
+    top: 383px;
+    left: 570px;
+}
+.registro .pedir-datos{
+    position: relative;
+    height: 62px;
+    top: 11px;
+}
+.registro .usuario{
+    width: 304px;
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family:"Montserrat-Bold",Helvetica;
+    font-weight: 700;
+    color: #00265e;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+.registro .div{
+    position: absolute;
+    width: 304px;
+    height: 34px;
+    top: 28px;
+    left: 0;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #00265e;
+}
+.registro .pedir-datos-wrapper{
+    position: absolute;
+    width: 304px;
+    height: 82px;
+    top: 385px;
+    left: 899px;
+}
+.registro.div-wrapper{
+    position: absolute;
+    width: 371px;
+    height: 100px;
+    top: 185px;
+    left: 700px;
+}
+.registro.pedir-datos-2{
+    position: relative;
+    height: 75px;
+    top: 13px;
+}
+.registro .text-wrapper{
+    width: 371px;
+    position: absolute;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #00265e;
+    text-align: center;
+    letter-spacing: normal;
+    white-space: nowrap;
+}
+.registro .rectangle-2{
+    position: absolute;
+    width: 371px;
+    height: 41px;
+    top: 34px;
+    left: 0;
+    border-radius: 20px;
+    border-color: #00265e;
+}
+.registro .group-2{
+    position: absolute;
+    width: 371px;
+    height: 100px;
+    top: 285px;
+    left: 701px;
+}
+.registro .botn{
+    position: absolute;
+    width: 224px;
+    height: 43px;
+    top: 488px;
+    left: 774px;
+    background-color: #0080ab;
+    border-radius: 20px;
+}
+.registro .ingresar{
+    position: absolute;
+    top: 10px;
+    left: 74px;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.registro .titulos{
+    position: absolute;
+    width: 543px;
+    height: 39px;
+    top: 126px;
+    left: 633px;
+}
+.registro .text-wrapper-2{
+    position: absolute;
+    width: 543px;
+    top: -1px;
+    left: 0;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-weight: 700;
+    color: #0080ab;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
+.registro .volver{
+    height: 22px;
+    top: 71px;
+    left: 93px;
+    position: absolute;
+    width: 62px;
+}
+.registro .overlap-group{
+    position: relative;
+    width: 79px;
+    height: 30px;
+    top: -6px;
+    left: -17px;
+    background-image: url(../IMG/Fondo\ 2.png);
+    background-size: 100% 100%;
+}
+.registro .text-wrapper-3{
+    top: 5px;
+    left: 15px;
+    font-family: "Montserrat-LightItalic",Helvetica;
+    font-weight: 300;
+    font-style: italic;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: o;
+    line-height: normal;
+    position: absolute;
+    width: 62px;
+}
